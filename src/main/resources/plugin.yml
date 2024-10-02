@@ -1,0 +1,7 @@
+name: FPKPlugin
+version: ${project.version}
+main: de.legoshi.fpkplugin.FPKPlugin
+commands:
+  sign:
+  potspeed:
+  tier:
